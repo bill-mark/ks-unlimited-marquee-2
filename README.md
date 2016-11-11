@@ -84,3 +84,5 @@ npm start
 ## License
 
 ks-unlimited-marquee is released under the MIT license.
+
+Reference source ：https://github.com/ttop5/ks-unlimited-marquee
